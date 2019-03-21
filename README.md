@@ -6,13 +6,13 @@ The labs are all [here](https://github.com/PdxCodeGuild/IntroToProgramming/tree/
 
 * Review import
 * Review random.choice()
-* Demo [Baby talk gen](/lab_hint_demos/baby_talk_gen.py), make them type along
+* Demo [baby\_talk\_gen.py](/lab_hint_demos/baby_talk_gen.py), make them type along
 
 #### Lab 6: Rock Paper Scissors
 
 * Review indentation, show them double-indented lines and discuss the basics of scope
 * Review if/elif, boolean stuff
-* Demo "In season.py", make them type along
+* Demo [in\_season.py](/lab_hint_demos/in_season.py), make them type along
 
 #### Other stuff
 
