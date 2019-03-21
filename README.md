@@ -6,7 +6,7 @@ The labs are all [here](https://github.com/PdxCodeGuild/IntroToProgramming/tree/
 
 * Review import
 * Review random.choice()
-* Demo "Baby talk gen," make them type along
+* Demo [Baby talk gen](/lab_hint_demos/baby_talk_gen.py), make them type along
 
 #### Lab 6: Rock Paper Scissors
 
